@@ -4,4 +4,4 @@ author:
   name: Fucloud
   email: "john.smith@foobar.com"
 
-theme: minima
+remote_theme: jekyll/minima
