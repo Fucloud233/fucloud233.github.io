@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Typescript小记: class-transformer转换混合类型数组"
+title: "class-transformer转换混合类型数组"
+categories: typescript
 ---
 
 # 背景
